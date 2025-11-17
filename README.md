@@ -12,6 +12,9 @@
    
 6. Terakhir, Halaman Profil berfungsi sebagai pusat informasi akun, menampilkan avatar pengguna, username, tanggal bergabung, dan total hari penggunaan aplikasi, serta tombol "Logout" untuk mengakhiri sesi dengan aman.
 
-![Screenshot (Tampilan Login)](\<URL atau Path File Gambar>)
-![Screenshot (Tampilan Dashboard)](\<URL atau Path File Gambar>)
-![Screenshot (Tampilan Edit Kegiatan)](\<URL atau Path File Gambar>)
+![Screenshot (Tampilan Login)](<Screenshot 2025-11-17 225646.png>)
+
+![Screenshot (Tampilan Dashboard)](<Screenshot 2025-11-17 225759.png>)
+
+![Screenshot (Tampilan Tambah Kebiasaan)](<Screenshot 2025-11-17 225902.png>)
+
